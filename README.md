@@ -1,52 +1,27 @@
-### Welcome to My GitHub :)
+<h1 align="center">Welcome to my Github :)</h1>
+<h3 align="center">I am Shreyas, a passionate student of Computer Science and Math</h3>
 
+<img align = "right" alt= "coding" width = "400" src = "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+- 🔭 I’m currently working on **Automating JUnit Testing for Applications**
 
-I am Shreyas Ujagar, a passionate student of Computer Science and Math. 
+- 🌱 As of now, I am learning **Spring Boot and Angular**
 
-I am very interested in Java's Object Oriented Paradigm, true AI, and Graph Theory. 
+- 💬 Feel free to ask me about **Pygame, and Java's Object Oriented Programming**
 
-Outside tech, I love playing the guitar 🎸 (all genres!) and tennis 🎾 
+- 📫 You can reach me here: **shreyasujagar@gmail.com**
 
-I’m currently...
- 
- 🔭  working on automating JUnit Testing for applications
- 
- 🌱  learning Spring Boot and Angular.
+- ⚡ Fun fact **I love playing the guitar 🎸 and tennis 🎾**
 
-
-
-
- 
-    💬 Ask me about ...
-
-    Pygame, Sorting Algorithms, and Recursion 
-
-<p align = "right">
-
-<img width="350" height = "500" alt="Screenshot 2023-06-27 at 12 32 11 AM" src="https://github.com/ShreyasUjagar/ShreyasUjagar/assets/135226247/ebdbbc61-8492-4377-b1d4-9bff0d309cb0">
-
-
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/shreyasujagar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shreyasujagar" height="30" width="40" /></a>
 </p>
 
-![Screenshot 2023-06-27 at 1 22 38 PM](https://github.com/ShreyasUjagar/ShreyasUjagar/assets/135226247/09d19068-8fcd-4101-be6d-824e81b18876)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 
 
-<!--
-**ShreyasUjagar/ShreyasUjagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- 
