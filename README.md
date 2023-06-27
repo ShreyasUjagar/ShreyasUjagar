@@ -9,11 +9,11 @@
 
 - 🌱 As of now, I am learning **Spring Boot and Angular**
 
-- 💬 Feel free to ask me about **Pygame, and Java's Object Oriented Programming**
+- 💬 Feel free to ask me about **Pygame, and Java's Object Oriented Paradigm**
 
 - 📫 You can reach me here: **shreyasujagar@gmail.com**
 
-- ⚡ Fun fact **I love playing the guitar 🎸 and tennis 🎾**
+- ⚡ Fun fact about myself: **I love playing the guitar 🎸 and tennis 🎾**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
