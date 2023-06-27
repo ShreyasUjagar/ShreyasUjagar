@@ -1,4 +1,4 @@
-![logo](https://github.com/ShreyasUjagar/ShreyasUjagar/blob/main/Untitled%20design.png)
+![logo](https://github.com/ShreyasUjagar/ShreyasUjagar/blob/main/ocean.png)
 
 <h1 align="center">Welcome to my Github :)</h1>
 <h3 align="center">I'm Shreyas, a passionate student of Computer Science and Math at New York University</h3>
